@@ -1,0 +1,3 @@
+ans = '''{'query': 'what is task decomposition',
+ 'result': 'Task decomposition refers to the process of breaking down a complex task into smaller, more manageable sub-tasks or steps. It involves identifying the individual components or actions required to complete the overall task. Task decomposition is often used in problem-solving, project management, and artificial intelligence to simplify complex tasks and facilitate better understanding and execution. By breaking down a task into smaller parts, it becomes easier to allocate resources, assign responsibilities, and track progress.'}'''
+print(ans)
